@@ -1,0 +1,18 @@
+Slot Type: LIST_OF_MATT_ADJECTIVES
+Values:
+annoying
+ugly
+gonna get his butt kicked
+going to get his butt kicked
+dumb
+stinky
+dorky
+nerdy
+hairy
+ok
+super
+special
+stupid
+my buddy
+a great guy
+my hero

@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "MattIntent",
+      "slots": [
+        {
+          "name": "MattAdjective",
+          "type": "LIST_OF_MATT_ADJECTIVES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+ }
