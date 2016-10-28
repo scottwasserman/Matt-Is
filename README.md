@@ -1,4 +1,4 @@
-# Matt-Is
+# Matt Is
 Created this simple Alexa skill and Lambda to test custom intent slots and drive my co-working Matt nuts at the same time.
 
 The exercise was to up the custom slot in the Intent Schema that allowed me to have a list of possible value for that slot. I set up MattAdjective which if of type LIST_OF_MATT_ADJECTIVES.
