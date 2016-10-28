@@ -52,6 +52,6 @@ And the utterence is just:
 MattIntent {MattAdjective}
 ```
 
-I set the Invocation Name to "Matt he's" so when you say "Alexa tell Matt he's annoying" and Alexa would say "Hey Matt! You're annoying".
+I set the Invocation Name to "Matt he's" so when you say "Alexa tell Matt he's annoying" and Alexa would say "Hey Matt you're annoying".
 
 None of this is rocket science but I wanted to play around with different length custom slot values and see how they performed. They worked perfectly.
